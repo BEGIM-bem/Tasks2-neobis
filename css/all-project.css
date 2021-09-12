@@ -1,0 +1,40 @@
+.all-project{
+    width: 100%;
+height: 776px;
+background: #F6F6F8;;
+margin-top: 350px;
+}
+
+.title-texst1{
+    text-align: center;
+    font-size: 36px;
+    padding-right: 100px;
+    padding-top: 100px;
+}
+.texst8{
+    color: #999999;
+    font-size: 16px;
+line-height: 25px;
+text-align: center;
+
+}
+.img-photo-kot{
+    margin-left: 120px;
+    margin-top: 70px;
+}
+.code{
+    margin-right: 20px;
+}
+
+.btn-all-prj{
+    width: 200px;
+height: 45px;
+color: #FFFFFF;
+border-radius: 30px;
+background: #4985FF;
+border: 0px;
+font-size: 16px;
+
+margin-top: 50px;
+margin-left: 550px;
+}

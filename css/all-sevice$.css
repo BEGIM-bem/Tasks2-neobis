@@ -1,0 +1,64 @@
+.first-screen-button{
+    width: 100%;
+    
+    height: 490px;
+    background: linear-gradient(90deg, #504DC2 20.44%, #5F12D0 80.91%), #C4C4C4;
+    position: relative;
+    
+}
+
+.btn-screen{
+    color: #FFFFFF;
+    font-size: 16px;
+    width: 200px;
+    height: 45px;
+    background: #4985FF;
+    border: 0px;
+border-radius: 30px;
+margin-top: 120px;
+margin-left: 1000px;
+
+
+
+}
+.info{
+    color: white;
+    font-size: 36px;
+    line-height: 53px;
+    position: absolute;
+    top: 70px;
+    left: 130px;
+
+}
+.all-service-item{
+    width: 350px;
+    height: 544px;
+  
+    margin-left: 30px;
+}
+.header{
+    font-size: 18px;
+    padding-top: 0px;
+}
+
+.texst7{
+    font-size: 16px;
+line-height: 25px;
+color: #999999;
+}
+
+.link{
+    padding-top: 10px;
+    color: #4985FF;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    margin-top: 70px;
+}
+.line1{
+    width: 1110px;
+    border: 1px solid #E0E0E0;
+    margin-left: 110px;
+}

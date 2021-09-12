@@ -1,0 +1,59 @@
+.about-us{
+    background: #F6F6F8;
+    width: 100%;
+    height: 797px;
+    
+}
+
+.about-us-texst{
+  
+    width: 30%;
+    height: 390px;
+    margin-left: 250px; 
+; 
+    
+
+}
+.texst4{
+    font-size: 36px;
+    padding-top: 140px;
+}
+.texst5{
+    font-size: 16px;
+line-height: 25px;
+}
+.img-work{
+    margin-left: 750px;
+    margin-top: -300px;
+   
+}
+.line{
+    width: 1110px;
+    margin-top: 60px;
+    margin-left: 240px;
+
+    border: 1px solid #E0E0E0;
+}
+.img-icon{
+    margin-left: 350px;
+    margin-top: 77px;
+
+}
+.number{
+    margin-left: 390px;
+    margin-top: -39px;
+
+}
+.texst6{
+    margin-left: 350px;
+    margin-top:-10px;
+    font-size: 16px;
+}
+.colections-number{
+    
+    display: flex;
+    justify-content: center;
+}
+.about-us-numbers{
+    margin-left: -210px;
+}

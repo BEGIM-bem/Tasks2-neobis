@@ -1,0 +1,40 @@
+.video{
+    width: 100%;
+height: 735px;
+}
+
+.img-photo2{
+    width: 100%;
+height: 570px;
+
+}
+
+.texst9{
+    font-size: 36px;
+    color: white;
+    margin-top: -510px;
+    margin-left: 500px;
+    
+}
+.texst10{
+    font-size: 16px;
+    color: white;
+    margin-left: 550px;
+    margin-top: -10px;
+}
+.img-town{
+     margin-left: 230px;
+     margin-top: 40px ;
+     position: relative;
+}
+
+.img-video-btn{
+    position: absolute;
+    top:4060px;
+    left: 580px;
+}
+.line{
+    width: 1000px;
+    border: 1px solid #E0E0E0;
+    
+}
